@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c64b29af4aa6747e",
+        "id": "6a04e635eb925be9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "База знаний/Дополнения/хэш.md",
+            "file": "База знаний/технологии/flutter/widgets/StatelessWidget.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Дополнения/хэш.md",
+                "file": "База знаний/технологии/flutter/widgets/StatelessWidget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Дополнения/хэш.md",
+                "file": "База знаний/технологии/flutter/widgets/StatelessWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Дополнения/хэш.md"
+                "file": "База знаний/технологии/flutter/widgets/StatelessWidget.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 323.5
   },
-  "active": "c64b29af4aa6747e",
+  "active": "6a04e635eb925be9",
   "lastOpenFiles": [
-    "База знаний/Дополнения/интерфейс.md",
-    "База знаний/Дополнения/хэш.md",
-    "Без названия.md",
-    "База знаний/технологии/dart/dart-core/implements.md",
+    "База знаний/технологии/flutter/Flutter.md",
+    "База знаний/технологии/dart/dart-core/void main().md",
     "База знаний/технологии/dart/dart-core/Type.md",
     "База знаний/технологии/dart/dart-core/runtimeType.md",
     "База знаний/технологии/dart/dart-core/hashCode.md",
+    "База знаний/технологии/dart/dart-core/bool.md",
+    "True и False.md",
+    "База знаний/технологии/dart/dart-core/num.md",
     "База знаний/технологии/dart/dart-core/Object.md",
-    "Возвращает хэш код объекта в формате [[int.md",
-    "База знаний/технологии/dart/dart-core/num.md"
+    "База знаний/технологии/dart/Dart.md"
   ]
 }
