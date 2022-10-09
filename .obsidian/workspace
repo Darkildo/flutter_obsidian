@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c40afcc9622047",
+        "id": "c64b29af4aa6747e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "База знаний/flutter/Flutter.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -72,35 +68,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53131a288e171268",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "База знаний/flutter/Flutter.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dcbe11ecdd389fa5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "База знаний/flutter/Flutter.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "62abd6658358cc97",
             "type": "leaf",
             "state": {
@@ -112,27 +79,58 @@
             }
           },
           {
-            "id": "1b4a901cc709f28b",
+            "id": "75f0826f7da904e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50628fc0dd9158bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fdc4bbea8e78ea2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "База знаний/flutter/Flutter.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 323.5
   },
-  "active": "a5c40afcc9622047",
+  "active": "c64b29af4aa6747e",
   "lastOpenFiles": [
-    "База знаний/dart/Dart.md",
-    "База знаний/flutter/Flutter.md",
-    "База знаний/Концепции рубрик.md",
-    "База знаний/Структура базы.md"
+    "База знаний/dart/dart-core/implements.md",
+    "База знаний/Дополнения/интерфейс.md",
+    "База знаний/dart/dart-core/Type.md",
+    "База знаний/dart/dart-core/runtimeType.md",
+    "База знаний/dart/dart-core/hashCode.md",
+    "База знаний/dart/dart-core/Object.md",
+    "хэш.md",
+    "Без названия.md",
+    "Возвращает хэш код объекта в формате [[int.md",
+    "База знаний/dart/dart-core/num.md"
   ]
 }
