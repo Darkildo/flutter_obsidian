@@ -7,8 +7,12 @@
         "id": "c64b29af4aa6747e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "База знаний/Дополнения/хэш.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "База знаний/Дополнения/хэш.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "База знаний/Дополнения/хэш.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "База знаний/Дополнения/хэш.md"
+              }
             }
           }
         ],
@@ -122,15 +130,15 @@
   },
   "active": "c64b29af4aa6747e",
   "lastOpenFiles": [
-    "База знаний/dart/dart-core/implements.md",
     "База знаний/Дополнения/интерфейс.md",
-    "База знаний/dart/dart-core/Type.md",
-    "База знаний/dart/dart-core/runtimeType.md",
-    "База знаний/dart/dart-core/hashCode.md",
-    "База знаний/dart/dart-core/Object.md",
-    "хэш.md",
+    "База знаний/Дополнения/хэш.md",
     "Без названия.md",
+    "База знаний/технологии/dart/dart-core/implements.md",
+    "База знаний/технологии/dart/dart-core/Type.md",
+    "База знаний/технологии/dart/dart-core/runtimeType.md",
+    "База знаний/технологии/dart/dart-core/hashCode.md",
+    "База знаний/технологии/dart/dart-core/Object.md",
     "Возвращает хэш код объекта в формате [[int.md",
-    "База знаний/dart/dart-core/num.md"
+    "База знаний/технологии/dart/dart-core/num.md"
   ]
 }
