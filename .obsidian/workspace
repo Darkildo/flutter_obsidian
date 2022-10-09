@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "0c75053e130fc6df",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c40afcc9622047",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "База знаний/flutter/Flutter.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fce903e77d605407",
+    "type": "split",
+    "children": [
+      {
+        "id": "6894179e717cf193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b91bdc619c77b731",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40d0d90499e4ef49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "F",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55216026c837f729",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d792d4658889638e",
+    "type": "split",
+    "children": [
+      {
+        "id": "74511c2f40e2540e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53131a288e171268",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "База знаний/flutter/Flutter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcbe11ecdd389fa5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "База знаний/flutter/Flutter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62abd6658358cc97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b4a901cc709f28b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "База знаний/flutter/Flutter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a5c40afcc9622047",
+  "lastOpenFiles": [
+    "База знаний/dart/Dart.md",
+    "База знаний/flutter/Flutter.md",
+    "База знаний/Концепции рубрик.md",
+    "База знаний/Структура базы.md"
+  ]
+}
