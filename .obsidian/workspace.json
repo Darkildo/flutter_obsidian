@@ -4,12 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6a04e635eb925be9",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "ba99359112efe08f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a04e635eb925be9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6711ffcaa586c02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Статьи/ChangeNotifier selector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,7 +46,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -36,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "F",
+                "query": "tag:#PlugFox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "База знаний/Статьи/ChangeNotifier selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "База знаний/Статьи/ChangeNotifier selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "База знаний/Статьи/ChangeNotifier selector.md"
+              }
             }
           }
         ],
@@ -120,17 +146,20 @@
     "direction": "horizontal",
     "width": 323.5
   },
-  "active": "6a04e635eb925be9",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "40d0d90499e4ef49",
   "lastOpenFiles": [
+    "2022-10-15.md",
+    "База знаний/технологии/dart/Dart.md",
     "База знаний/технологии/dart/dart-core/Object.md",
-    "База знаний/технологии/flutter/widgets/StatelessWidget.md",
-    "База знаний/технологии/flutter/Flutter.md",
-    "База знаний/технологии/dart/dart-core/void main().md",
     "База знаний/технологии/dart/dart-core/Type.md",
     "База знаний/технологии/dart/dart-core/runtimeType.md",
-    "База знаний/технологии/dart/dart-core/hashCode.md",
     "База знаний/технологии/dart/dart-core/bool.md",
     "True и False.md",
-    "База знаний/технологии/dart/dart-core/num.md"
+    "База знаний/Дополнения/хэш.md",
+    "База знаний/Дополнения/интерфейс.md",
+    "База знаний/технологии/flutter/widgets/StatelessWidget.md"
   ]
 }
