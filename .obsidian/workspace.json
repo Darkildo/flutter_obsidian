@@ -43,16 +43,24 @@
             "id": "933065a13048422e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4bf3b4d29f6b2d5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Статьи/Анти-паттерны при обработке ошибок.md",
-                "mode": "preview",
+                "file": "База знаний/Статьи/Layer Link.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний/Статьи/Анти-паттерны при обработке ошибок.md",
+                "file": "База знаний/Статьи/Layer Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний/Статьи/Анти-паттерны при обработке ошибок.md",
+                "file": "База знаний/Статьи/Layer Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Статьи/Анти-паттерны при обработке ошибок.md"
+                "file": "База знаний/Статьи/Layer Link.md"
               }
             }
           }
@@ -169,20 +177,17 @@
     "direction": "horizontal",
     "width": 323.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "933065a13048422e",
+  "active": "b4bf3b4d29f6b2d5",
   "lastOpenFiles": [
-    "База знаний/Статьи/ChangeNotifier selector.md",
     "База знаний/Статьи/Анти-паттерны при обработке ошибок.md",
+    "База знаний/Статьи/Layer Link.md",
+    "2022-11-10.md",
+    "База знаний/Статьи/ChangeNotifier selector.md",
     "База знаний/технологии/dart/dart-core/Object.md",
     "База знаний/технологии/dart/dart-core/num.md",
     "База знаний/технологии/dart/dart-core/null.md",
     "База знаний/технологии/dart/dart-core/Type.md",
     "База знаний/технологии/dart/dart-core/runtimeType.md",
-    "База знаний/технологии/dart/Dart.md",
-    "unions.md",
-    "stack trace.md"
+    "База знаний/технологии/dart/Dart.md"
   ]
 }
